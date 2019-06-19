@@ -1,0 +1,12 @@
+/* body {
+  padding-top: 54px;
+} */
+.card-body{
+  padding: 0rem;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 45vh;
+    object-fit: cover;
+}
